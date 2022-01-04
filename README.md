@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YourFriendlyNeighborhoodActuary
+- 👋 Hi, I’m Glennmark aka @YourFriendlyNeighborhoodActuary
 - 👀 I’m interested in Data Science and the Actuarial domain
 - 🌱 I’m currently learning R,Python and SQL
 - 💞️ I’m looking to collaborate on any Data Science and Actuarial projects
